@@ -9,11 +9,14 @@
 
 ### Connect with me:
 
-Email: [zydrunas.rimkus95@gmail.com](mailto:zydrunas.rimkus95@gmail.com)
-LinkedIn: [www.linkedin.com/in/zydrunasrimkus](https://www.linkedin.com/in/zydrunasrimkus/)
+- Email: [zydrunas.rimkus95@gmail.com](mailto:zydrunas.rimkus95@gmail.com)
+- LinkedIn: [www.linkedin.com/in/zydrunasrimkus](https://www.linkedin.com/in/zydrunasrimkus/)
 
 <br />
 
 ### Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="30"/>
