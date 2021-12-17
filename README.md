@@ -4,7 +4,7 @@
 
 - 👀 I am interested in blockchain.
 - 🌱 I’m currently learning Node.js
-- 🥅 2021 Goals: React.js
+- 🥅 2022 Goals: React.js
 - ⚡ Fun fact: I love esports.
 
 ### Connect with me:
