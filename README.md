@@ -3,8 +3,8 @@
 ## I'm full-stack developer. Learning everyday!
 
 - 👀 I am interested in blockchain.
-- 🌱 I’m currently learning Node.js
-- 🥅 2022 Goals: React.js
+- 🌱 I’m currently learning React.js
+- 🥅 2022 Goals: React.js + React Native
 - ⚡ Fun fact: I love esports.
 
 ### Connect with me:
@@ -29,5 +29,6 @@
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="bootstrap"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="vscode"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="sass"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/></a>
+<a href'#'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" alt="React"/></a>
 </p>
