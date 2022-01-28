@@ -1,6 +1,6 @@
 ### Hello, I'm Žydrūnas. This is my [LinkedIn](https://www.linkedin.com/in/zydrunasrimkus/) 👋 
 
-## I'm full-stack developer. Learning everyday!
+## I'm front-end developer. Learning everyday!
 
 - 👀 I am interested in blockchain.
 - 🌱 I’m currently learning React.js
